@@ -114,3 +114,8 @@ maincore:
  
     // jump to C code, should not return
 4:  bl      kernel_main
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 741859a3a968eff492324bef1ceb089d0d20c1fc
